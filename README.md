@@ -5,9 +5,7 @@ A modern **frontend-only e-commerce application** built using **React.js** and *
 ---
 
 ## 🚀 Live Demo
-
-🔗 https://fs-34-challenge-1.vercel.app/
-
+https://skymart-ecommerece-practice-task.vercel.app/auth
 ---
 
 ## 📌 Overview
