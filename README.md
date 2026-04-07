@@ -62,33 +62,6 @@ It demonstrates how to build a scalable frontend architecture using:
 * 📦 Axios (for API fetching if used)
 
 ---
-
-## 📁 Project Structure
-
-```
-src/
-│
-├── components/
-│   ├── Navbar.jsx
-│   ├── Sidebar.jsx
-│   ├── CartDrawer.jsx
-│   └── ProductCard.jsx
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── Products.jsx
-│   ├── ProductDetails.jsx
-│   └── Login.jsx
-│
-├── context/
-│   └── CartContext.jsx
-│
-├── App.jsx
-└── main.jsx
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ```bash
